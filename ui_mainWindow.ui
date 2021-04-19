@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1497</width>
+    <width>1581</width>
     <height>921</height>
    </rect>
   </property>
@@ -1280,7 +1280,7 @@ color: rgb(238, 238, 236);</string>
         </palette>
        </property>
        <attribute name="title">
-        <string>Telemetry</string>
+        <string>Telemetry/Telecommand</string>
        </attribute>
        <widget class="QFrame" name="frame_4">
         <property name="geometry">
